@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "EP01 樽前FMやります"
+date:   2017-01-10 01:00:00 +0900
+
+---
+
+[たにった](https://twitter.com/ttata_trit)さんと、樽前FM、高専入試、学科再編、Amazon、JIS配列とUS配列、ニセコなどについてお話しました。
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep01.mp3 )
+
+
+## Memo
+
+- [ポッドキャスト - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88)
+- [ポッドキャスト: Seesaaブログ ヘルプセンター](http://faq.seesaa.net/article/422864437.html)
+- [Rebuild - Podcast by Tatsuhiko Miyagawa](http://rebuild.fm/)
+- [yatteiki.fm](https://yatteiki.fm)
+- [ハスカップ - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%B9%E3%82%AB%E3%83%83%E3%83%97)
+- [「日本一食べにくいお菓子」、苫小牧から見参！：日経ビジネスオンライン](http://business.nikkeibp.co.jp/article/life/20090821/203090/)
+- [苫小牧市公式キャラクター「とまチョップ」の部屋（とまチョップオフィシャルサイト）／北海道苫小牧市](http://www.city.tomakomai.hokkaido.jp/shisei/toshikeikaku/machinakasaiseishukan/tomachop/official.html)
+- [学生寮 - 苫小牧工業高等専門学校](http://www.tomakomai-ct.ac.jp/campus_life/dorm)
+- [樽前山／苫小牧市観光情報](http://www.city.tomakomai.hokkaido.jp/kankojoho/kankoannai/tarumaezan/tarumaezannitsuite/tarumaezan.html)
+- [たにったさん Lv.1197(@ttata_trit)さん &#124; Twitter](https://twitter.com/ttata_trit)
+- [苫小牧高専Newsさんのツイート: &quot;平成29年度本科入学者選抜推薦志願者出願状況を掲載しました（H29.1.5現在）&#10;https://t.co/R6NbW6xBk3 #苫小牧高専&quot;](https://twitter.com/TmNCT_News/status/816919691843121152)
+- [入試情報 - 苫小牧工業高等専門学校](http://www.tomakomai-ct.ac.jp/exam)
+- [学科再編に関するプレスリリース](http://www.tomakomai-ct.ac.jp/wp01/wp-content/uploads/2013/11/pr.pdf)
+- [創造工学科 - 苫小牧工業高等専門学校](http://www.tomakomai-ct.ac.jp/dep/ce)
+- [教育課程とシラバス - 苫小牧工業高等専門学校](http://www.tomakomai-ct.ac.jp/dep/syllabus)
+- [国立高専機構 &gt;&gt; 国立高専入試情報NAVI](http://www.kosen-k.go.jp/kosen_navi/03.html)
+- [はてなブックマーク - 国立高専機構 &gt;&gt; 国立高専入試情報NAVI](http://b.hatena.ne.jp/entry/www.kosen-k.go.jp/kosen_navi/index.php)
+- [MacBook Pro - Apple（日本）](http://www.apple.com/jp/macbook-pro/)
+- [Raspberry Pi - Teach, Learn, and Make with Raspberry Pi](https://www.raspberrypi.org/)
+- [mktakuyaさんのツイート: &quot;苫小牧高専の周りの土地結構空いてる気がするし、土地もそんなに高くなさそうだし、Amazonの倉庫作ってくれないかなぁ。苫小牧西ICから車で約3分。苫小牧港や新千歳空港もだいたい30分〜40分でいける。北海道の物流の玄関口ですよあのへん。&quot;](https://twitter.com/mktakuya/status/815532927710674944)
+- [札幌ニュース 札幌でもAmazonが当日配送に！？北広島に配送センター新設らしい！求人も！](http://sap-hack.jp/984/)
+- [北広島市 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%8C%97%E5%BA%83%E5%B3%B6%E5%B8%82)
+- [ヨドバシ.com - ヨドバシカメラの公式通販サイト【全品無料配達】](http://www.yodobashi.com/)
+- [北海道ニセコ町 公式ウェブサイト](http://www.town.niseko.lg.jp/)
+- [ニセコアンヌプリ・オフィシャルサイト](http://annupuri.info/)
+- [【公式サイト】ニセコの温泉 ホテル「ニセコアンヌプリ温泉 湯心亭」](http://www.niseko-annupurionsen.com/)
+- [千歳⇔ニセコ線 - 北海道中央バス](http://www.chuo-bus.co.jp/sightseeing/ski/chitose-niseko.php)
+- [日帰り入浴 - 開湯115年 北海道ニセコ『鯉川温泉旅館』公式HP](https://koikawa-onsen.jimdo.com/%E6%97%A5%E5%B8%B0%E3%82%8A%E5%85%A5%E6%B5%B4/)
+- [ニセコ温泉郷 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%BB%E3%82%B3%E6%B8%A9%E6%B3%89%E9%83%B7)
