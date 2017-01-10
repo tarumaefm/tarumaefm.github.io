@@ -1,7 +1,14 @@
 ---
 layout: post
 title:  "EP01 樽前FMやります"
-date:   2017-01-10 01:00:00 +0900
+date:   2017-01-10
+file: /audio/podcast-ep01.mp3
+excerpt: "たにったさんと、樽前FM、高専入試、学科再編、Amazon、JIS配列とUS配列、ニセコなどについてお話しました。"
+summary: "たにったさんと、樽前FM、高専入試、学科再編、Amazon、JIS配列とUS配列、ニセコなどについてお話しました。"
+duration: "01:30:22"
+length: "65066950"
+explicit: "yes"
+block: no
 
 ---
 
