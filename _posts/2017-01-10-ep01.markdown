@@ -7,7 +7,6 @@ excerpt: "たにったさんと、樽前FM、高専入試、学科再編、Amazo
 summary: "たにったさんと、樽前FM、高専入試、学科再編、Amazon、JIS配列とUS配列、ニセコなどについてお話しました。"
 duration: "01:30:22"
 length: "65066950"
-explicit: "yes"
 block: no
 
 ---
