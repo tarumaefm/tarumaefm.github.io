@@ -13,8 +13,10 @@ block: no
 
 [たにった](https://twitter.com/ttata_trit)さんと、樽前FM、高専入試、学科再編、Amazon、JIS配列とUS配列、ニセコなどについてお話しました。
 
-[Download MP3]({{ baseurl }}/audio/podcast-ep01.mp3 )
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
 
+[Download MP3]({{ baseurl }}/audio/podcast-ep01.mp3 )
 
 ## Memo
 
