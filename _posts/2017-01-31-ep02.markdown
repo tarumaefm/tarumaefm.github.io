@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "EP02 アニメ・声優"
+date:   2017-01-31
+file: /audio/podcast-ep02.mp3
+excerpt: "ふっくんと、Podcastの方針、アニメ、声優、成人式、高専関連時事ネタなどについてお話しました。"
+summary: "ふっくんと、Podcastの方針、アニメ、声優、成人式、高専関連時事ネタなどについてお話しました。"
+duration: "00:54:22"
+length: "39149301"
+block: no
+permalink: /2
+
+---
+
+[ふっくん](https://twitter.com/fk2763owl)と、Podcastの方針、アニメ、声優、成人式、高専関連時事ネタなどについてお話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep02.mp3 )
+
+## Memo
+
+**現在Memo編集中**
+
+- [樽前FM ep01](http://tarumaefm.com/1)
+- [うずらインフォ](http://uzurainfo.han-be.com/index.html)
+- [銀魂](http://www.tv-tokyo.co.jp/anime/gintama/index2.html)
+- [それでも町は廻っている](http://www.tbs.co.jp/anime/soremachi/)
