@@ -8,6 +8,7 @@ summary: "たにったさんと、樽前FM、高専入試、学科再編、Amazo
 duration: "01:30:22"
 length: "65066950"
 block: no
+permalink: /1
 
 ---
 
