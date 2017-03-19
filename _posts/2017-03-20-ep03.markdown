@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "EP03 卒業"
+date:   2017-03-20
+file: /audio/podcast-ep03.mp3
+excerpt: "とっしーと、卒業、学会発表、卒業研究、4月からの予定、高専での5年間、北海道のIT系イベント、PS4ゲームなどについてお話しました。"
+summary: "とっしーと、卒業、学会発表、卒業研究、4月からの予定、高専での5年間、北海道のIT系イベント、PS4ゲームなどについてお話しました。"
+duration: "01:19:04"
+length: "56930872"
+block: no
+permalink: /3
+
+---
+
+[とっしー](https://twitter.com/toshiemon18)と、卒業、学会発表、卒業研究、4月からの予定、高専での5年間、北海道のIT系イベント、PS4ゲームなどについてお話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep03.mp3 )
+
+## Memo
+
+- [とっしー](https://twitter.com/toshiemon18/)
+- [BULB株式会社](http://bulbcorp.jp/)
+- [ゆきち（ねこ）](https://twitter.com/toshiemon18/status/836993267619110913)
+- [Reactビギナーズガイド ―コンポーネントベースのフロントエンド開発入門](https://www.amazon.co.jp/dp/4873117887/)
+- [GGJSAP] (http://ggjsap.juegos/2017/)
+- [OSC]()
+- [LOCAL]()
+- [LOCAL学生部]()
+- [ニーア オートマタ](http://www.jp.square-enix.com/nierautomata/)
+- [タイタンフォール2]()
+- [Fallout 4]()
+- [mktakuya.netをGitHub Pagesに移行した - えむけーろぐ](http://mktakuya.hatenablog.jp/entry/2017/02/28/135501)
+- [苫小牧高専News](https://twitter.com/TmNCT_News/)
+- [GitHub Pages](https://pages.github.com)
+- [学生４名がモデルロケット第４級ライセンスを取得しました]()
+- [苫小牧市内の中学校でロボットとプログラミングに関する出前授業を行いました](https://twitter.com/TmNCT_News/status/836458444181794816)
