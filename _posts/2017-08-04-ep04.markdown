@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "EP04 新生活"
+date:   2017-08-04
+file: /audio/podcast-ep04.mp3
+excerpt: "ふっくんと、誕生日、種田梨沙復帰、新生活始まって4ヶ月、ニコカレ、Java、Kotlin、Android開発、スマートウォッチダサい説、勝手に高専ラジオなどについて話しました。"
+summary: "ふっくんと、誕生日、種田梨沙復帰、新生活始まって4ヶ月、ニコカレ、Java、Kotlin、Android開発、スマートウォッチダサい説、勝手に高専ラジオなどについて話しました。"
+duration: "01:11:33"
+length: "34350729"
+block: no
+permalink: /4
+
+---
+
+[ふっくん](https://twitter.com/fk2763owl)と、誕生日、種田梨沙復帰、新生活始まって4ヶ月、ニコカレ、Java/Kotlin、Android開発、スマートウォッチダサい説、Office 365、勝手に高専ラジオなどについて話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep04.mp3 )
+
+## Memo
+
+- [人気声優の種田梨沙が仕事復帰へ「体調を考慮しながら」　昨年9月から活動休止 | ORICON NEWS](http://www.oricon.co.jp/news/2095178/full/)
+- [ニコニコカレンダー](http://www.geocities.jp/nikonikocalendar/index_ja.html)
+- [Amazon.co.jp： Excelvan I5 Plus OLED Bluetooth4.0 スマートブレスレット](https://www.amazon.co.jp/dp/B017XMW280//ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mktakuya-22&linkId=89c66a6b50fe0b8c41d26a1d34ac99b1)
+- [FAXとジャイロ操作と老害と - #えむけーろぐ](http://mktakuya.hatenablog.jp/entry/2017/07/27/215101)
+- [Adobe、「Flash Player」の更新と提供を2020年末で終了 - 窓の杜](http://forest.watch.impress.co.jp/docs/news/1072487.html)
+- [「動画視聴ページ HTML5版（β）」提供開始のお知らせ‐ニコニコインフォ](http://blog.nicovideo.jp/niconews/ni064261.html)
+- [全国の高専でデータを共有した状態だった　Office365の設定を巡り高専機構に批判集まる - ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1707/12/news123.html)
+- [(追記アリ)高専機構の設定ミスが発覚し、全国の高専のOffice365が5日間ほど利用停止の見通し→拡散した学生が悪いという流れになってるっぽい - Togetterまとめ](https://togetter.com/li/1129067)
+- [勝手に高専ラジオ(@kattekosenradio)さん | Twitter](https://twitter.com/kattekosenradio)
