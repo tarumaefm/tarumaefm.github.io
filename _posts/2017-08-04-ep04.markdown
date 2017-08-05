@@ -21,7 +21,8 @@ permalink: /4
 
 ## Memo
 
-- [人気声優の種田梨沙が仕事復帰へ「体調を考慮しながら」　昨年9月から活動休止 | ORICON NEWS](http://www.oricon.co.jp/news/2095178/full/)
+
+- [人気声優の種田梨沙が仕事復帰へ「体調を考慮しながら」昨年9月から活動休止](http://www.oricon.co.jp/news/2095178/full/)
 - [ニコニコカレンダー](http://www.geocities.jp/nikonikocalendar/index_ja.html)
 - [Amazon.co.jp： Excelvan I5 Plus OLED Bluetooth4.0 スマートブレスレット](https://www.amazon.co.jp/dp/B017XMW280//ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mktakuya-22&linkId=89c66a6b50fe0b8c41d26a1d34ac99b1)
 - [FAXとジャイロ操作と老害と - #えむけーろぐ](http://mktakuya.hatenablog.jp/entry/2017/07/27/215101)
@@ -29,4 +30,4 @@ permalink: /4
 - [「動画視聴ページ HTML5版（β）」提供開始のお知らせ‐ニコニコインフォ](http://blog.nicovideo.jp/niconews/ni064261.html)
 - [全国の高専でデータを共有した状態だった　Office365の設定を巡り高専機構に批判集まる - ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1707/12/news123.html)
 - [(追記アリ)高専機構の設定ミスが発覚し、全国の高専のOffice365が5日間ほど利用停止の見通し→拡散した学生が悪いという流れになってるっぽい - Togetterまとめ](https://togetter.com/li/1129067)
-- [勝手に高専ラジオ(@kattekosenradio)さん | Twitter](https://twitter.com/kattekosenradio)
+- [勝手に高専ラジオ(@kattekosenradio)さん \| Twitter](https://twitter.com/kattekosenradio)
