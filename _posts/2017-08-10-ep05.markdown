@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "EP05 勝手に樽前FM"
+date:   2017-08-10
+file: /audio/podcast-ep05.mp3
+excerpt: "勝手に高専ラジオのトモさん・ウミさんと、勝手に高専ラジオ、Podcastの収録、高専生活、寮生活、誕生日、卒業後の進路、卒業研究などについて話しました。"
+summary: "勝手に高専ラジオのトモさん・ウミさんと、勝手に高専ラジオ、Podcastの収録、高専生活、寮生活、誕生日、卒業後の進路、卒業研究などについて話しました。"
+duration: "01:12:01"
+length: "69149176"
+block: no
+permalink: /5
+
+---
+
+[勝手に高専ラジオ](https://twitter.com/kattekosenradio)のトモさん・ウミさんと、勝手に高専ラジオ、Podcastの収録、高専生活、寮生活、誕生日、卒業後の進路、卒業研究などについて話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep05.mp3 )
+
+## Memo
+
+- [tarumaefm ep04](http://tarumaefm.com/4)
+- [勝手に高専ラジオ - YouTube](https://www.youtube.com/channel/UCqN6kxtoF09Ra_bLAkr9L-g)
+- [勝手に高専ラジオ(@kattekosenradio)さん \| Twitter](https://twitter.com/kattekosenradio)
+- [バイリンガルニュース (Bilingual News)](http://bilingualnews.libsyn.com/)
+- [Rebuild - Podcast by Tatsuhiko Miyagawa](http://rebuild.fm/)
+- [Audacity プロジェクト日本語トップページ - OSDN](https://ja.osdn.net/projects/audacity/)
+- [AviUtlのお部屋](http://spring-fragrance.mints.ne.jp/aviutl/)
+- [SoundCloud - Listen to music](https://soundcloud.com/)
+- [高専カンファレンス Wiki](http://kosenconf.jp/)
+- [第10回 勝手に高専ラジオ「ぶっちゃけ高専に入ってよかったか」 - YouTube](https://www.youtube.com/watch?v=RhGnKjEUzHc)
+
