@@ -5,6 +5,7 @@ description: >
 baseurl: ""
 url: "http://tarumaefm.com"
 github_username: tarumaefm
+twitter_username: tarumaefm
 
 # Build settings
 markdown: kramdown
