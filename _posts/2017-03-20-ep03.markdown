@@ -25,7 +25,7 @@ permalink: /3
 - [BULB株式会社](http://bulbcorp.jp/)
 - [ゆきち（ねこ）](https://twitter.com/toshiemon18/status/836993267619110913)
 - [Reactビギナーズガイド ―コンポーネントベースのフロントエンド開発入門](https://www.amazon.co.jp/dp/4873117887/)
-- [GGJSAP] (http://ggjsap.juegos/2017/)
+- [GGJSAP](http://ggjsap.juegos/2017/)
 - [OSC]()
 - [LOCAL]()
 - [LOCAL学生部]()
