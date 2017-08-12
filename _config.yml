@@ -3,7 +3,7 @@ email: "takuya.mk96@gmail.com"
 description: >
   "苫小牧高専生による雑談Podcast"
 baseurl: ""
-url: "http://tarumaefm.com"
+url: "https://tarumaefm.com"
 github_username: tarumaefm
 twitter_username: tarumaefm
 
@@ -21,7 +21,7 @@ title: "樽前FM"
 email: "takuya.mk96@gmail.com"
 description: "苫小牧高専生による雑談Podcastです。学校行事ネタ、ローカルネタの他、アニメやゲーム、ガジェットなど。"
 subtitle: "苫小牧高専生による雑談Podcast"
-url: "http://tarumaefm.com"
+url: "https://tarumaefm.com"
 lang: "ja"
 author: "Takuya Mukohira"
 copyright: "&#xA9; 2016 樽前FM"
