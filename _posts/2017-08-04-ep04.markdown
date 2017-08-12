@@ -6,7 +6,7 @@ file: /audio/podcast-ep04.mp3
 excerpt: "ふっくんと、誕生日、種田梨沙復帰、新生活始まって4ヶ月、ニコカレ、Java、Kotlin、Android開発、スマートウォッチダサい説、勝手に高専ラジオなどについて話しました。"
 summary: "ふっくんと、誕生日、種田梨沙復帰、新生活始まって4ヶ月、ニコカレ、Java、Kotlin、Android開発、スマートウォッチダサい説、勝手に高専ラジオなどについて話しました。"
 duration: "01:11:33"
-length: "34350729"
+length: "68697362"
 block: no
 permalink: /4
 
