@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "EP06 こっそり一人回"
+date:   2017-08-29
+file: /audio/podcast-ep06.mp3
+excerpt: "インターン、オープンキャンパス、Scratch、勝手に高専ラジオ、ハッシュタグについて話しました。"
+summary: "インターン、オープンキャンパス、Scratch、勝手に高専ラジオ、ハッシュタグについて話しました。"
+duration: "00:13:57"
+length: "13391748"
+block: no
+permalink: /6
+
+---
+
+インターン、オープンキャンパス、Scratch、勝手に高専ラジオ、ハッシュタグについて話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep06.mp3 )
+
+## Memo
+
+- [就職活動サイト 逆求人ナビ](https://www.studenthunting.com/)
+- [オープンキャンパスを開催しました - 苫小牧工業高等専門学校](http://www.tomakomai-ct.ac.jp/news/9249.html)
+- [p5.js \| home](https://p5js.org/)
+- [p5.jsでProcessingのようにリッチなWeb表現を作るチュートリアル \| 株式会社LIG](https://liginc.co.jp/web/html-css/html/130834)
+- [Scratch - Imagine, Program, Share](https://scratch.mit.edu/)
+- [Scratchから操作する　ワイヤレスちびか～ &laquo;  ちっちゃいものくらぶ](http://tiisai.dip.jp/?p=3292)
+- [Arduino Nano - スイッチサイエンス](https://www.switch-science.com/catalog/2554/)
+- [勝手に高専ラジオ「樽前FMさんに紹介してもらって」 - YouTube](https://www.youtube.com/watch?v=m1j8709pbxA)
+- [ハッシュタグ #tarumaefm](https://twitter.com/hashtag/tarumaefm?src=hash)
+
+## Photos
+
+### ワイヤレスちびか〜
+
+![ワイヤレスちびか〜]({{ baseurl }}/photos/6/1.jpg)
+
+
+### ワイヤレスちびか〜のコース（手作り）
+
+![ワイヤレスちびか〜のコース]({{ baseurl }}/photos/6/2.jpg)
+
