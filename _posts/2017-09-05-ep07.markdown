@@ -5,8 +5,8 @@ date:   2017-09-05
 file: /audio/podcast-ep07.mp3
 excerpt: "ポメさんと、インターン、進路、大学生活、下宿生活、セキュリティ・キャンプ、観葉植物、Raspberry Piなどについて話しました。"
 summary: "ポメさんと、インターン、進路、大学生活、下宿生活、セキュリティ・キャンプ、観葉植物、Raspberry Piなどについて話しました。"
-duration: "66010721"
-length: "01:08:45"
+duration: "01:08:45"
+length: "66010721"
 block: no
 permalink: /7
 
