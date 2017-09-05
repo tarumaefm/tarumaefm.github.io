@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "EP07 一人の寂しさと観葉植物"
+date:   2017-09-05
+file: /audio/podcast-ep06.mp3
+excerpt: "ポメさんと、インターン、進路、大学生活、下宿生活、セキュリティ・キャンプ、観葉植物、Raspberry Piなどについて話しました。"
+summary: "ポメさんと、インターン、進路、大学生活、下宿生活、セキュリティ・キャンプ、観葉植物、Raspberry Piなどについて話しました。"
+duration: "66010721"
+length: "01:08:45"
+block: no
+permalink: /7
+
+---
+
+[ポメ](https://twitter.com/pome_11)さんと、インターン、進路、大学生活、下宿生活、セキュリティ・キャンプ、観葉植物、Raspberry Piなどについて話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep07.mp3 )
+
+## Memo
+
+- [pome(@pome_11)さん \| Twitter](https://twitter.com/pome_11)
+- [函館市電（市営交通） \| 函館市](https://www.city.hakodate.hokkaido.jp/bunya/hakodateshiden/)
+- [グロービス](http://www.globis.co.jp/)
+- [セキュリティ・キャンプ全国大会2017　ホーム：IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/jinzai/camp/2017/zenkoku2017.html)
+- [セキュリティ・キャンプ実施協議会](http://www.security-camp.org/)
+- [セキュリティ・ミニキャンプ in 北海道 2016](http://www.security-camp.org/minicamp/hokkaido2016.html)
+- [ガジュマル - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%B8%E3%83%A5%E3%83%9E%E3%83%AB)
+- [オリーブ - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96)
+- [HASEGAWA SATO STORE（ペットマト販売サイト）](http://www.petomato.com/)
+- [Raspberry Pi](https://www.switch-science.com/catalog/2800/)
+- [pome's box（ポメのWebサイト）](https://tamatoyaku.com/)
+- [ポメのRaspberry Pi](http://tamatoyaku.com:10080)
+- [今のRPi](https://twitter.com/pome_11/status/900921293024837632)
