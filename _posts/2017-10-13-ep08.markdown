@@ -12,7 +12,7 @@ permalink: /8
 
 ---
 
-たにったさんと、MacBook Pro、Swift、プログラミング教育、学科再編、一人暮らし、VJ、高専祭などについて話しました。
+[たにった](https://twitter.com/ttata_trit)さんと、MacBook Pro、Swift、プログラミング教育、学科再編、一人暮らし、VJ、高専祭などについて話しました。
 
 - [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
 - [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
