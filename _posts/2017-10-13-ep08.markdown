@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "EP08 昔話は老ける"
+date:   2017-10-13
+file: /audio/podcast-ep08.mp3
+excerpt: "たにったさんと、MacBook Pro、Swift、プログラミング教育、学科再編、一人暮らし、VJ、高専祭などについて話しました。"
+summary: "たにったさんと、MacBook Pro、Swift、プログラミング教育、学科再編、一人暮らし、VJ、高専祭などについて話しました。"
+duration: "01:44:54"
+length: "75523361"
+block: no
+permalink: /8
+
+---
+
+たにったさんと、MacBook Pro、Swift、プログラミング教育、学科再編、一人暮らし、VJ、高専祭などについて話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep08.mp3)
+
+## Memo
+
+- [EP01 樽前FMやります](https://tarumaefm.com/1)
+- [EP05 勝手に樽前FM](https://tarumaefm.com/5)
+- [MacBook Pro - Apple（日本）](https://www.apple.com/jp/macbook-pro/)
+- [Swift Playgrounds - Apple (日本)](https://www.apple.com/jp/swift/playgrounds/)
+- [Scratch - Imagine, Program, Share](https://scratch.mit.edu/)
+- [マインドストーム EV3 - LEGO.com](https://www.lego.com/ja-jp/products/themes/mindstorms/mindstorms-ev3-31313)
+- [AtomでVJできるパッケージを作った #GLSL #livecoding - マルシテイア](http://blog.gmork.in/entry/2017/08/04/173000)
+- [苫小牧高専2017年度 第53回高専祭の開催について - 苫小牧工業高等専門学校](http://www.tomakomai-ct.ac.jp/info/9804.html)
+- [ハッシュタグ #tarumaefm](https://twitter.com/search?q=%23tarumaefm&src=typd)
+
