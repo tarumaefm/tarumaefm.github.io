@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "EP09 オタクは高位のオタクを尊敬する"
+date:   2017-10-21
+file: /audio/podcast-ep09.mp3
+excerpt: "ふっくんと、高専祭、学科展、社会人生活、就活、趣味などについて話しました。"
+summary: "ふっくんと、高専祭、学科展、社会人生活、就活、趣味などについて話しました。"
+duration: "01:03:22"
+length: "45622490"
+block: no
+permalink: /9
+
+---
+
+[ふっくん](https://twitter.com/fk2763owl/)と、高専祭、学科展、社会人生活、就活、趣味などについて話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep09.mp3)
+
+## Memo
+
+- [苫小牧高専2017年度 第53回高専祭の開催について](http://www.tomakomai-ct.ac.jp/info/9804.html)
+- [iPad 2017](https://www.apple.com/jp/ipad-9.7/)
+- [iQ7 Professional Stereo Microphone for iOS \| Zoom](https://www.zoom.co.jp/ja/products/handy-recorder/zoom-iq7-professional-stereo-microphone-ios)
+- [マインドストーム EV3 - LEGO.com](https://www.lego.com/ja-jp/products/themes/mindstorms/mindstorms-ev3-31313)
+- [Kindle - 目に優しい電子書籍リーダー: Amazon.co.jp](https://www.amazon.co.jp/dp/B0186FEWLS/)
+- [Fallout 4](https://www.amazon.co.jp/dp/B0151GVJSY)
+- [ハッシュタグ #tarumaefm](https://twitter.com/search?q=%23tarumaefm&src=typd)
+
