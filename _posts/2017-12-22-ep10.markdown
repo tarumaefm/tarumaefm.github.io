@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "EP10 好きなことやっていくべき"
+date:   2017-12-22
+file: /audio/podcast-ep10.mp3
+excerpt: "ぱくとまくんと、ぱくとま、研究室環境改善、AIスピーカー、編入、部活、2017年の振り返りと2018年の抱負について話しました。"
+summary: "ぱくとまくんと、ぱくとま、研究室環境改善、AIスピーカー、編入、部活、2017年の振り返りと2018年の抱負について話しました。"
+duration: "01:28:37"
+length: "63809961"
+block: no
+permalink: /10
+
+---
+
+[ぱくとまくん @pakutoma](https://twitter.com/pakutoma) と、ぱくとま、研究室環境改善、AIスピーカー、編入、部活、2017年の振り返りと2018年の抱負について話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep10.mp3)
+
+## Memo
+
+- [ぱくとま(@pakutoma)さん \| Twitter](https://twitter.com/pakutoma)
+- [とある研究室に導入された忙しい研究生のための「フルグラボタン」に「最高のアマゾンダッシュボタンの活用方法」「先生が素敵すぎ」と絶賛の声が集まる - Togetter](https://togetter.com/li/1126551)
+- [椀ショット 極｜みそ汁サーバーの導入をご検討中のお客様｜マルコメ](https://www.marukome.co.jp/business/server/consideration/kiwami/)
+- [液みそシリーズ｜商品情報｜マルコメ](https://www.marukome.co.jp/ekimiso/)
+- [Google Home Mini - どの部屋にもマッチするスマート スピーカー - Google ストア](https://store.google.com/product/google_home_mini)
+- [Google Home - スマート スピーカー＆ホーム アシスタント - Google ストア](https://store.google.com/product/google_home_mini)
+- [IFTTT](https://ifttt.com/discover)
+- [Google HomeにつぶやくとTwitterでつぶやくやつ、IFTTTですぐできた。 - Qiita](https://qiita.com/kazunori279/items/fdadbfde58ed133bb9d5)
+- [HomePod、家庭での音楽の楽しみ方を再発明 - Apple (日本)](https://www.apple.com/jp/newsroom/2017/06/homepod-reinvents-music-in-the-home/)
+- [HomePod - Apple](https://www.apple.com/homepod/)
+- [AirPods - Apple（日本）](https://www.apple.com/jp/airpods/)
+- [Apple Music - Apple（日本）](https://www.apple.com/jp/apple-music/)
+- [Google Play Music](https://play.google.com/store/music?hl=ja)
+- [Apple Music の学生プランを利用する - Apple サポート](https://support.apple.com/ja-jp/HT205928)
+- [豊橋技術科学大学](https://www.tut.ac.jp/)
+- [ソフトウェアエンジニアのUSビザ – Kazuki Sakamoto – Medium](https://medium.com/@sakamoto.kazuki/2017-12-demystifying-us-visa-f596529701a3)
+- [エイチーム、プログラマ向け情報共有サービス「Qiita」提供元のIncrementsを約14億円で買収  \|  TechCrunch Japan](http://jp.techcrunch.com/2017/12/22/ateam-increments/)
+- [The DEV Community](https://dev.to/)
+- [クッキークリッカー - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AB%E3%83%BC)
+- [Service Workerの基本とそれを使ってできること - Qiita](https://qiita.com/y_fujieda/items/f9e765ac9d89ba241154)
+- [Excelに「Python」搭載検討　Microsoftがアンケート実施中 - ITmedia NEWS](http://www.itmedia.co.jp/news/articles/1712/18/news076.html)
+- [Excel方眼紙 - Wikipedia](https://ja.wikipedia.org/wiki/Excel%E6%96%B9%E7%9C%BC%E7%B4%99)
+- [苫小牧高専 Advent Calendar 2017 - Adventar](https://adventar.org/calendars/2126)
