@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "EP11 どれだけ行動したかで好きが上乗せされていく"
+date:   2018-01-20
+file: /audio/podcast-ep11.mp3
+excerpt: "ふっくん・とっしーと、ハンドルネーム、年末年始、専攻科、コミケ、2018年について話しました。"
+summary: "ふっくん・とっしーと、ハンドルネーム、年末年始、専攻科、コミケ、2018年について話しました。"
+duration: "00:54:32"
+length: "39266562"
+block: no
+permalink: /11
+
+---
+
+[ふっくん](https://twitter.com/FuKKu_N_)・[とっしー](https://twitter.com/toshiemon18)と、ハンドルネーム、年末年始、専攻科、コミケ、2018年について話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep11.mp3)
+
+## Memo
+
+- [toshiemon18/timeline_monitor - 特定ユーザのツイートをslackに流して見逃さない](https://github.com/toshiemon18/timeline_monitor)
+- [コミックマーケット９３のご案内](http://www.comiket.co.jp/info-a/C93/C93info.html)
+- [EP10 好きなことやっていくべき（ぱくとま回）](https://tarumaefm.com/10)
+- [React.js](https://reactjs.org/)
+- [ガラナサンクチュアリ](https://guarana-sanctuary.herokuapp.com/)
+- [北海道アプリコンテスト2018](http://hmcc.jp/aplcontest/2018/)
+- [2018年やりたいこと – #えむけーろぐ](https://blog.mktakuya.net/ba3c17eee5af)
+- [SciRubyへようこそ](https://sciruby-jp.github.io/)
+- [Movidius Neural Compute Stick - スイッチサイエンス](https://www.switch-science.com/catalog/3501/)
