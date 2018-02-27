@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "EP12 できないのが普通、やれる奴がすごすぎる"
+date:   2018-02-27
+file: /audio/podcast-ep12.mp3
+excerpt: "ふっくんと、Skypeの着信音、2月、帰宅前勉強タイム、アプリコンテストなどについて話しました。"
+summary: "ふっくんと、Skypeの着信音、2月、帰宅前勉強タイム、アプリコンテストなどについて話しました。"
+duration: "01:01:00"
+length: "43917821"
+block: no
+permalink: /12
+
+---
+
+[ふっくん](https://twitter.com/FuKKu_N_)と、Skypeの着信音、2月、帰宅前勉強タイム、アプリコンテストなどについて話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep12.mp3)
+
+## Memo
+
+- [終電＝定時だったわたしが勉強時間を確保するためにした1つのこと - インターネットの備忘録](http://hase0831.hatenablog.jp/entry/20110626)
+- [帰宅前の溢れるやる気を持続させる - Konifar&#39;s WIP](http://konifar.hatenablog.com/entry/2015/06/25/041721)
+- [2018年やりたいこと – #えむけーろぐ](https://blog.mktakuya.net/2018%E5%B9%B4%E3%82%84%E3%82%8A%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8-ba3c17eee5af)
+- [EP11 どれだけ行動したかで好きが上乗せされていく](https://tarumaefm.com/11)
+- [北海道学生アプリコンテスト2018](http://hmcc.jp/aplcontest/2018/)
