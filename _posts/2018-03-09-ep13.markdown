@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "EP13 人生は修行"
+date:   2018-03-09
+file: /audio/podcast-ep13.mp3
+excerpt: "けんきち、とっしーと、アプリコンテスト、マイニング、iPhone X、JAL修行、高専カンファなどについて話しました。"
+summary: "けんきち、とっしーと、アプリコンテスト、マイニング、iPhone X、JAL修行、高専カンファなどについて話しました。"
+duration: "01:18:56"
+length: "37893561"
+block: no
+permalink: /13
+
+---
+
+[けんきち(@kenkichi_tnct)](https://twitter.com/kenkichi_tnct)、[とっしー(@toshiemon18)](https://twitter.com/toshiemon18)と、アプリコンテスト、マイニング、iPhone X、JAL修行、高専カンファなどについて話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep13.mp3)
+
+## Memo
+
+- [けんきちくん](https://twitter.com/kenkichi_tnct)
+- [北海道学生アプリコンテスト2018](http://hmcc.jp/aplcontest/2018/)
+- [ソフトウェアテクノロジー部がHOKKAIDO学生アプリコンテスト2018で受賞しました!](http://www.tomakomai-ct.ac.jp/news/10458.html)
+- [イーサリアム - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%82%B5%E3%83%AA%E3%82%A2%E3%83%A0)
+- [マイニングでグラボ燃えた件](https://twitter.com/kenkichi_tnct/status/953523252508291072)
+- [iPhone X](https://www.apple.com/jp/shop/buy-iphone/iphone-x)
+- [【iPhone X】スクリーンショットを撮る方法 \| AppBank – iPhone, スマホのたのしみを見つけよう](http://www.appbank.net/2017/11/06/iphone-application/1441315.ph)
+- [新iPhone(2018年)の噂・情報まとめ  \|  AppBank &#8211; iPhone, スマホのたのしみを見つけよう](http://www.appbank.net/2017/12/15/iphone-application/1464582.php)
+- [JALマイレージバンク - サービスステイタス一覧：サービス一覧](https://www.jal.co.jp/jalmile/flyon/status_conditions.html#tabs)
+- [高専カンファレンス Wiki](http://kosenconf.jp/)
+
