@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "EP14 生存バイアス"
+date:   2018-04-29
+file: /audio/podcast-ep14.mp3
+excerpt: "たにったさんと、逆求人、アピール、編集、3種の神器などについて話しました。"
+summary: "たにったさんと、逆求人、アピール、編集、3種の神器などについて話しました。"
+duration: "01:38:52"
+length: "47463990"
+block: no
+permalink: /14
+
+---
+
+[たにった](https://twitter.com/ttata_trit)さんと、逆求人、アピール、編集、3種の神器などについて話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep14.mp3)
+
+## Memo
+
+- [就職活動サイト 逆求人ナビ](https://www.studenthunting.com/)
+- [サポーターズ \| 学生と企業が支援でつながる](https://supporterz.jp/)
+- [はたらくを面白くするビジネスSNS・Wantedly](https://www.wantedly.com/)
+- [GitHub Pages \| Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.](https://pages.github.com/)
+- [tanitta.net](http://tanitta.net)
+- [Audacity® \| Free, open source, cross-platform audio software for multi-track recording and editing.](https://www.audacityteam.org/)
+- [EP13 人生は修行](https://tarumaefm.com/13)
+- [EP12 できないのが普通、やれる奴がすごすぎる](https://tarumaefm.com/12)
+- [一ANA，二タミ，三修行，CA，五解脱，ろくでなし（すむむさんのブログ）](http://xmmm.hatenablog.com/)
+- [GitHub](https://github.com/)
+- [esa.io - Expertise Sharing Archives for motivated teams.](https://esa.io/)
+- [チャットワーク（ChatWork） \| ビジネスが加速するクラウド会議室](https://go.chatwork.com/ja/)
+- [Sourcetree - 無料の Git & Mercurial クライアント](https://ja.atlassian.com/software/sourcetree)
+- [Trello](https://trello.com/)
+- [tanitta/todev](https://github.com/tanitta/todev)
+- [vue.js](https://jp.vuejs.org/index.html)
+- [Vuex](https://vuex.vuejs.org/ja/intro.html)
