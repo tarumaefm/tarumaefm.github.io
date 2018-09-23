@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "EP15 ネーピア"
+date:   2018-09-23
+file: /audio/podcast-ep15.mp3
+excerpt: "けんきちくんと、NZ語学研修、台風21号、平成30年北海道胆振東部地震、新型iPhone/Apple Watchなどについて話しました。"
+summary: "けんきちくんと、NZ語学研修、台風21号、平成30年北海道胆振東部地震、新型iPhone/Apple Watchなどについて話しました。"
+duration: "01:31:46"
+length: "66078226"
+block: no
+permalink: /15
+
+---
+
+[けんきち](https://twitter.com/kenkichi_tnct/)くんと、NZ語学研修、自然災害、新型iPhone/Apple Watchなどについて話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep15.mp3)
+
+## Memo
+
+- [学生海外派遣：ニュージーランド・香港帰国報告 - 苫小牧工業高等専門学校](http://www.tomakomai-ct.ac.jp/news/11824.html)
+- [ニュージーランド ネーピア（Google Mapのリンク）](https://www.google.co.jp/maps/place/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89+%E3%83%8D%E3%83%BC%E3%83%94%E3%82%A2/@-40.9083825,170.7425051,6z/data=!4m5!3m4!1s0x6d69c9d64fb1ca99:0x500ef6143a2e850!8m2!3d-39.4928444!4d176.9120178)
+- [EIT: Eastern Institute of Technology](https://www.eit.ac.nz/)
+- [北海道内、台風21号で交通網に乱れ　農作物の被害も：日本経済新聞](https://www.nikkei.com/article/DGXMZO35016680V00C18A9L41000/)
+- [北海道胆振東部地震 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E8%83%86%E6%8C%AF%E6%9D%B1%E9%83%A8%E5%9C%B0%E9%9C%87)
+- [iPhone XS / XS Max](https://www.apple.com/jp/iphone-xs/)
+- [Apple Watch Series 4](https://www.apple.com/jp/apple-watch-series-4/)
+- [iOS 12](https://www.apple.com/jp/ios/ios-12/)
+- [mktakuyaさんのツイート: "iOS 12のショートカット機能で遊んでみる… "](https://twitter.com/mktakuya/status/1043322477886074880)
+- [watchOS 5](https://www.apple.com/jp/watchos/watchos-5/)
+- [Apple Watch Series 4の心電図（ECG）、日本では使えない？ Appleに聞いてみた（訂正） - Engadget 日本版](https://japanese.engadget.com/2018/09/13/apple-watch-series-4-ecg-apple/)
+- [心電図計測が可能な Apple Watch Series 4 が日本で入手できるようになるためには \| Med IT Tech](https://medit.tech/applewatch-japan-future-hatanaka/)
+- [史上最高のアプリと話題の｢ハートビート｣やり方 #AppleWatch \| ギズモード・ジャパン](https://www.gizmodo.jp/2015/04/_applewatch_2.html)
