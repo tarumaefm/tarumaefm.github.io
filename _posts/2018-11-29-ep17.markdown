@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "EP17 本当にひどい○○"
+date:   2018-11-28
+file: /audio/podcast-ep17.mp3
+excerpt: "てっぴーくんと、てっぴー、本当にひどい実験、進路、専攻科生活などについて話しました。"
+summary: "てっぴーくんと、てっぴー、本当にひどい実験、進路、専攻科生活などについて話しました。"
+duration: "01:00:35"
+length: "58164373"
+block: no
+permalink: /17
+
+---
+
+[てっぴー](https://twitter.com/msz3nhen)くんと、てっぴー、本当にひどい実験、進路、専攻科生活などについて話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep17.mp3)
+
+## Memo
+
+- [てっぴー(@msz3nhen)さん \| Twitter](https://twitter.com/msz3nhen)
+- [てっぴーのぶろぐ](http://blog.msz3nhen.net/)
+- [ハッシュタグ #本当にひどい実験](https://twitter.com/hashtag/%E6%9C%AC%E5%BD%93%E3%81%AB%E3%81%B2%E3%81%A9%E3%81%84%E5%AE%9F%E9%A8%93?src=hash)
+- [ITエンジニア・プログラマ向けの転職・就活・学習サービス【paiza（パイザ）】](https://paiza.jp/)
+- [就職活動サイト【逆求人ナビ】 就活セミナー　2021年卒,2020年卒,2019年卒,2018年卒,　就職活動　逆求人フェスティバル](http://www.studenthunting.com/)
+- [北海道学生アプリコンテスト2019](http://hmcc.jp/aplcontest/2019/)
+- [enPiT2　成長分野を支える情報技術人材の育成拠点の形成](http://www.enpit.jp/)
+- [苫小牧高専 Advent Calendar 2018 - Adventar](https://adventar.org/calendars/2923)
+- [10.times{print P}(@kenkichi\_tnct)さん \| Twitter](https://twitter.com/kenkichi_tnct/)
+
