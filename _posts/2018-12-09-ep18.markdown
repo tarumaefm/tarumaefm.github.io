@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "EP18 Podcaster Advent Calendar 2018"
+date:   2018-12-09
+file: /audio/podcast-ep18.mp3
+excerpt: "ふっくんと、自己紹介、樽前FMについて、高専について、これまでのPodcast、VTuber、聞いているPodcast、お母さん乱入などについて話しました。"
+summary: "ふっくんと、自己紹介、樽前FMについて、高専について、これまでのPodcast、VTuber、聞いているPodcast、お母さん乱入などについて話しました。"
+duration: "00:53:30"
+length: "25677948"
+block: no
+permalink: /18
+
+---
+
+ふっくん [@fk2763owl](https://twitter.com/fk2763owl/) と、自己紹介、樽前FMについて、高専について、これまでのPodcast、VTuber、聞いているPodcast、お母さん乱入などについて話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep18.mp3)
+
+## Memo
+
+- [Podcaster Advent Calendar 2018 - Adventar](https://adventar.org/calendars/3068)
+- [樽前FM](https://tarumaefm.com/)
+- [苫小牧高専](https://www.tomakomai-ct.ac.jp/)
+- [たにったさん](https://twitter.com/ttata_trit)
+- [yatteiki.fm](https://yatteiki.fm)
