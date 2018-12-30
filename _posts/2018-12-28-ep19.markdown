@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "EP19 年末スペシャル 前半"
+date:   2018-12-28
+file: /audio/podcast-ep19.mp3
+excerpt: "たにったさんと、風邪、過去回、改元、東京Node学園祭2018、GGJ、苫小牧高専アドベントカレンダーなどについて話しました。"
+summary: "たにったさんと、風邪、過去回、改元、東京Node学園祭2018、GGJ、苫小牧高専アドベントカレンダーなどについて話しました。"
+duration: "02:14:37"
+length: "64614816"
+block: no
+permalink: /19
+
+---
+
+[たにったさん](https://twitter.com/ttata_trit) と、風邪、過去回、改元、東京Node学園祭2018、GGJ、苫小牧高専アドベントカレンダーなどについて話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep19.mp3)
+
+## Memo
+
+- [Google症(ぐーぐるしょう)とは - コトバンク](https://kotobank.jp/word/Google%E7%97%87-1713470)
+- [ハッシュタグ #tarumaefm](https://twitter.com/hashtag/tarumaefm?src=hash)
+- [EP08 昔話は老ける](https://tarumaefm.com/8)
+- [東京Node学園祭2018](https://nodefest.jp/2018/)
+- [ビデオジョッキー - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%87%E3%82%AA%E3%82%B8%E3%83%A7%E3%83%83%E3%82%AD%E3%83%BC)
+- [ASCII.jp：君は演奏する"プログラミング"Live Codingを知っているか？](http://ascii.jp/elem/000/001/563/1563265/)
+- [AtomでVJできるパッケージを作った ](http://blog.gmork.in/entry/2017/08/04/173000)
+- [obniz (オブナイズ) - クラウドにつながったEaaS開発ボード](https://amzn.to/2TirWPA)
+- [obniz IoT Home Kit - スマホでもプログラム。自宅を自分の手でIoT化](https://amzn.to/2TdfKj8)
+- [ハッシュタグ #本当にひどい飲み会](https://twitter.com/hashtag/%E6%9C%AC%E5%BD%93%E3%81%AB%E3%81%B2%E3%81%A9%E3%81%84%E9%A3%B2%E3%81%BF%E4%BC%9A?src=hash)
+- [Node-RED](https://nodered.org/)
+- [IFTTT helps your apps and devices work together](https://ifttt.com/)
+- [Plagger - Wikipedia](https://ja.wikipedia.org/wiki/Plagger)
+- [Appleの初売り - Apple（日本）](https://www.apple.com/jp/shop/gifts/new-year)
+- [Global Game Jam Sapporo 2019](http://ggjsap.juegos/2019/)
+- [Global Game Jam Sapporo 2019さんのツイート: "12/2 北海道コミティア9 G16ブースで本を販売します!(1,000JPY) GGJに興味のある方!ゲームを作りたいけど悩んでるあなたに是非手をとっていただければ嬉しいです! #北海道コミティア #北ティア #ggjsap… "](https://twitter.com/ggjsap/status/1068888877283270656)
+- [苫小牧高専 Advent Calendar 2018 - Adventar](https://adventar.org/calendars/2923)
+
