@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "EP20 年末スペシャル 後半"
+date:   2018-12-29
+file: /audio/podcast-ep20.mp3
+excerpt: "たにったさんと、「やっていき」という罪、2018年まとめ、2019年の目標などについて話しました。"
+summary: "たにったさんと、「やっていき」という罪、2018年まとめ、2019年の目標などについて話しました。"
+duration: "01:22:00"
+length: "39356707"
+block: no
+permalink: /20
+
+---
+
+[たにったさん](https://twitter.com/ttata_trit) と、「やっていき」という罪、2018年まとめ、2019年の目標などについて話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep20.mp3)
+
+## Memo
+
+- [EP19 年末スペシャル 前半](https://tarumaefm.com/19)
+- [コンフォートゾーンとは、そこから抜け出して成長する方法とは？ | GLOBIS 知見録](https://globis.jp/article/1369)
+- [コンフォータブルゾーン - nextlifestyleの日記](http://d.hatena.ne.jp/nextlifestyle/20110321/1300679317)
+- [Rebuild: 217: Socially Awkward Hip-hop (higepon)](https://rebuild.fm/217/)
+- [「2018年やりたいこと」の振り返り - #えむけーろぐ](https://blog.m6a.jp/entry/2018/12/28/192452)
+- [たにったさんを支える技術 - #tanittaの日記](http://tanitta.hatenablog.com/entry/2018/12/28/210436)
+- [アイス・バケツ・チャレンジ - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%90%E3%82%B1%E3%83%84%E3%83%BB%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8)
+- [Rebuild: Naoki Hiroshima (N)](https://rebuild.fm/people/N/)
+
