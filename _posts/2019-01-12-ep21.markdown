@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "EP21 やあ ようこそ、バーボンハウスへ。"
+date:   2019-01-12
+file: /audio/podcast-ep21.mp3
+excerpt: "ふっくんと、BGM、2019年の目標、コミケ、VTuber、昔のインターネット、スマブラなどについて話しました。"
+summary: "ふっくんと、BGM、2019年の目標、コミケ、VTuber、昔のインターネット、スマブラなどについて話しました。"
+duration: "01:14:11"
+length: "35610748"
+block: no
+permalink: /21
+
+---
+
+[ふっくん @fk2763owl](https://twitter.com/fk2763owl) と、BGM、2019年の目標、コミケ、VTuber、昔のインターネット、スマブラなどについて話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep21.mp3)
+
+## Memo
+
+- [フリーBGM素材 『宮城道雄「春の海」』 試聴ページ｜フリーBGM DOVA-SYNDROME](https://dova-s.jp/bgm/play5610.html)
+- [デバフとは - はてなキーワード](http://d.hatena.ne.jp/keyword/%A5%C7%A5%D0%A5%D5)
+- [Angular 日本語ドキュメンテーション](https://angular.jp/)
+- [冬コミ行ってきました - エモい気持ちを言語化したい（ふっくんのブログ）](http://fk2763owl.hatenadiary.jp/entry/2019/01/04/180643)
+- [コミックマーケット９５のご案内](https://www.comiket.co.jp/info-a/C95/C95info.html)
+- [バーチャル大晦日2018〜みんなで年越しブイッとね！〜 - 2018/12/31 19:00開始 - ニコニコ生放送](http://live.nicovideo.jp/gate/lv316618117)
+- [涼宮ハルヒの憂鬱 (アニメ) - Wikipedia](https://ja.wikipedia.org/wiki/%E6%B6%BC%E5%AE%AE%E3%83%8F%E3%83%AB%E3%83%92%E3%81%AE%E6%86%82%E9%AC%B1_(%E3%82%A2%E3%83%8B%E3%83%A1))
+- [God knows...とは - はてなキーワード](http://d.hatena.ne.jp/keyword/God%20knows...)
+- [皆さまにご報告。 \| 戸松遥オフィシャルブログ｢ハルカレンダー｣Powered by Ameba](https://ameblo.jp/tomatsuharuka-blog/entry-12432210350.html)
+- [年齢を重ねてアニメを見る体力がなくなってきた……　アニメオタクの悩みを描いた漫画に共感が集まる - ねとらぼ](http://nlab.itmedia.co.jp/nl/articles/1811/03/news005.html)
+- [A.I.Channel - YouTube](https://www.youtube.com/channel/UC4YaOt1yT-ZeyB0OmxHgolA)
+- [月ノ美兎 - YouTube](https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A)
+- [アメーバピグ｜無料で遊べる！自分そっくりキャラで楽しもう！](https://pigg.ameba.jp/)
+- [無料ゲーム・オンラインゲームならハンゲーム](http://www.hangame.co.jp/)
+- [ネチケットとは - コトバンク](https://kotobank.jp/word/%E3%83%8D%E3%83%81%E3%82%B1%E3%83%83%E3%83%88-7034)<Paste>
+- [半年ROMってろ ‐ 通信用語の基礎知識](https://www.wdic.org/w/WDIC/%E5%8D%8A%E5%B9%B4ROM%E3%81%A3%E3%81%A6%E3%82%8D)
+- [電車男 - Wikipedia](https://ja.wikipedia.org/wiki/%E9%9B%BB%E8%BB%8A%E7%94%B7)
+- [バーボンハウスとは - ニコニコ大百科](https://dic.nicovideo.jp/a/%E3%83%90%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%8F%E3%82%A6%E3%82%B9)
+- [絶望ハンバーグ工場in シベリア - シベリア超速報まとめwiki - アットウィキ](https://www31.atwiki.jp/sibesoku/pages/27.html)
+- [おもしろフラッシュ総合サイト](http://29g.net/)
+- [フラッシュゲーム 「マテリアルスナイパー / MATERIAL SNIPER」 フラッシュゲームサイト NEXTFRAME(!)](http://nextframe.jp/flash/matsnp/matsnp.html)
+- [TANAKA U ゲーム系フリーランス(@TANAKA\_U)さん](https://twitter.com/TANAKA_U)
+- [EP19 年末スペシャル 前半](https://tarumaefm.com/19)
+- [EP20 年末スペシャル 後半](https://tarumaefm.com/20)
+- [大乱闘スマッシュブラザーズ SPECIAL \| Nintendo Switch \| 任天堂](https://www.smashbros.com/ja_JP/)
+- [mktakuya - YouTube](https://www.youtube.com/channel/UC6wx9Zw7py4yEw57zIFELaw)
+- [mikaji(@mikaji\_jp)さん \| Twitter](https://twitter.com/mikaji_jp)
+- [みかじ / mikaji - YouTube](https://www.youtube.com/c/mikaji)
+- [教育機関向けPro Appバンドルを購入 - 教育 - Apple（日本）](https://www.apple.com/jp_edu_1460/shop/product/BMGE2J/A/)
+
