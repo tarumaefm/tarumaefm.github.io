@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "EP22 卒業したので樽前FMも終わりです"
+date:   2019-04-07
+file: /audio/podcast-ep22.mp3
+excerpt: "ふっくん @fk2763owl とっしー @toshiemon18 と、米びつ、就職、ビジネスマナー、新人研修、オタクとしての成長、アニメ、高専OB 心が卒業できていない問題などについて話しました。"
+summary: "ふっくん @fk2763owl とっしー @toshiemon18 と、米びつ、就職、ビジネスマナー、新人研修、オタクとしての成長、アニメ、高専OB 心が卒業できていない問題などについて話しました。"
+duration: "01:00:28"
+length: "29025801"
+block: no
+permalink: /22
+
+---
+
+[ふっくん @fk2763owl](https://twitter.com/fk2763owl) [とっしー @toshiemon18](https://twitter.com/toshiemon18)と、米びつ、就職、ビジネスマナー、新人研修、オタクとしての成長、アニメ、高専OB 心が卒業できていない問題などについて話しました。
+
+- [iTunes/iOSで聞く](https://itunes.apple.com/jp/podcast/zun-qianfm/id1193579201)
+- [Androidで聞く](http://subscribeonandroid.com/tarumaefm.com/feed.xml)
+
+[Download MP3]({{ baseurl }}/audio/podcast-ep22.mp3)
+
+## Memo
+
+2年間ありがとうございました！
+
+- [マサカリの起源について - Qiita](https://qiita.com/kaityo256/items/d7d8f7a0e522895c8f5d)
+- [『よつばと！』特設サイト](http://dengekionline.com/yotsubato/)
+- [TVアニメ「どろろ」公式サイト](https://dororo-anime.com/)
+- [OVA『Re:ゼロから始める異世界生活 Memory Snow』オフィシャルサイト](http://re-zero-anime.jp/)
+- [シティーハンター｜アニメ｜TOKYO MX](https://s.mxtv.jp/anime/city_hunter/)
+- [PSYCHO-PASS Sinners of the System](https://psycho-pass.com/)
+- [TVアニメ「東京喰種：re」公式サイト | 2018年10月第2期放送スタート](https://www.marv.jp/special/tokyoghoul/)
+- [探偵オペラミルキィホームズ 公式ポータルサイト](http://milky-holmes.com/)
+- [TBSアニメーション・＜インフィニット・ストラトス＞公式ホームページ](http://www.tbs.co.jp/anime/is/)
+- [バ美肉とは (バビニクとは)  - ニコニコ大百科](https://dic.nicovideo.jp/a/%E3%83%90%E7%BE%8E%E8%82%89)
+- [フルハウス (1987年のテレビドラマ) - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AB%E3%83%8F%E3%82%A6%E3%82%B9_(1987%E5%B9%B4%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%E3%83%89%E3%83%A9%E3%83%9E))
+- [アレクサ&ケイティ - Netflix](https://www.netflix.com/title/80174285)
+- [スーパー！ドラマＴＶ 海外ドラマ：ブラックリスト](http://www.superdramatv.com/line/blacklist/)
+- [海外TVドラマ『ザ・シューター』公式サイト｜パラマウント](http://www.shooter-tv.jp/)
+- [パーソン・オブ・インタレスト｜ワーナー海外ドラマ 公式サイト](http://wwws.warnerbros.co.jp/kaidora/personofinterest/)
+- [HITMAN - SQUARE ENIX](http://www.hitman.jp/)
+- [Life is Strange - SQUARE ENIX](https://www.jp.square-enix.com/lis/)
+
