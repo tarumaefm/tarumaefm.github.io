@@ -1,12 +1,3 @@
-title: "樽前FM"
-email: "takuya.mk96@gmail.com"
-description: >
-  "苫小牧高専生による雑談Podcast"
-baseurl: ""
-url: "https://tarumaefm.com"
-github_username: tarumaefm
-twitter_username: tarumaefm
-
 # Build settings
 markdown: kramdown
 theme: minima
